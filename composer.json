@@ -1,0 +1,16 @@
+{
+    "name": "adair/weather-monitoring",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Adair J Limana",
+            "email": "ada_limana@yahoo.com.br"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "WeatherMonitoring\\": "src/"
+        }
+    }
+}
